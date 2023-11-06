@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971288677437",
+    "project_id": "rn-quizlet",
+    "storage_bucket": "rn-quizlet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971288677437:android:56fba346510e4a09176e54",
+        "android_client_info": {
+          "package_name": "com.rnquizlet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqtIkLrKwOu37lvDi9JW6NYnhiQvifXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
